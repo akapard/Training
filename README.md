@@ -1,1 +1,3 @@
 # Training
+
+echo "Hello world!"
